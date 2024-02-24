@@ -21,10 +21,6 @@ a:hover {
     color: #ffffff;
 }
 
-a:visited {
-    color:rgb(46, 214, 40)
-}
-
 header {
     width: 500px;
     margin: 0 auto;
